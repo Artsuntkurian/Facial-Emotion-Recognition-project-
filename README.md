@@ -34,7 +34,7 @@ A deep learning-based system to recognize human facial emotions using a custom i
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/facial-emotion-recognition.git
+git clone https://github.com/Artsuntkurian/facial-emotion-recognition.git
 cd facial-emotion-recognition
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
