@@ -1,8 +1,8 @@
 # Facial Emotion Recognition (AITHON '22 🧠🎭)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/yourusername/facial-emotion-recognition)](https://github.com/yourusername/facial-emotion-recognition)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/facial-emotion-recognition)](https://github.com/yourusername/facial-emotion-recognition)
+[![Repo Size](https://img.shields.io/github/repo-size/Artsuntkurian/Facial-Emotion-Recognition-project-)](https://github.com/Artsuntkurian/Facial-Emotion-Recognition-project-)
+[![Contributors](https://img.shields.io/github/contributors/Artsuntkurian/Facial-Emotion-Recognition-project-)](https://github.com/Artsuntkurian/Facial-Emotion-Recognition-project-)
 
 A deep learning-based system to recognize human facial emotions using a custom image dataset, built with Convolutional Neural Networks (CNN). Developed as part of **AITHON '22**, a hackathon conducted by IEEE Student Branch, College of Engineering, Karunagappally.
 
