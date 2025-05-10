@@ -31,6 +31,18 @@ A deep learning-based system to recognize human facial emotions using a custom i
 - Augmentations: Normalization, Horizontal Flip, Shear
 - Format: Image folders structured by emotion class
 
+## 📊 Sample Outputs
+
+### 🔹 Training Curve
+![Training Curve](assets/plots/Training%20Curves.png)
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](assets/plots/Confusion%20Matrix.png)
+
+### 🔹 Sample Predictions
+![Sample 1 - Test Data](assets/samples/sample_1_test_data.png)
+![Sample 2 - Test Data](assets/samples/sample_2_test_data.png)
+
 ## ⚙️ Setup Instructions
 
 ```bash
